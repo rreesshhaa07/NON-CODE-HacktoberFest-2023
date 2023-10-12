@@ -1,5 +1,10 @@
 # Non-Code Hacktoberfest 2023
 
+## Maintainers
+
+[Jainisha Pathak](https://github.com/JainishaPathak) && [Sneha Deshmukh](https://github.com/SnehaDeshmukh28)
+
+
 Welcome to the Non-Code Hacktoberfest 2023 project! We're excited to have you here. While Hacktoberfest is traditionally associated with coding, we believe that contributions go beyond just writing code. This project is all about making a meaningful impact in non-technical ways.
 
 ## What is Non-Code Hacktoberfest?
