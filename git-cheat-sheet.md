@@ -1,4 +1,4 @@
-git add git-cheat-sheet.mdHere's a cheat sheet for essential Git commands:
+Here's a cheat sheet for essential Git commands:
 
 **Configuration:**
 
