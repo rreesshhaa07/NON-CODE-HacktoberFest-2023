@@ -11,6 +11,10 @@ Welcome to the Non-Code Hacktoberfest 2023 project! We're excited to have you he
 
 Non-Code Hacktoberfest is an opportunity for people who want to contribute to open source projects but don't code. Here, you can help with documentation, design, community building, and more. We appreciate your efforts in making the open-source community even better.
 
+## Blogs : 
+
+1. https://aryanakb.blogspot.com/2023/10/git-github-mastery-hands-on-seminar-in.html
+
 ## How to Contribute
 
 1. **Browse the Issues**: Take a look at our [issue tracker](https://github.com/CSI-DMCE-2023/NON-CODE-HacktoberFest-2023/issues) to find tasks you can contribute to. These might include documentation improvements, design suggestions, community engagement ideas, and more.
